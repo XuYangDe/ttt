@@ -1,0 +1,14 @@
+﻿生成启动时间为 2021/4/22 10:39:10。
+     1>项目“D:\xuyang\01 C++书写HelloWorld\01 C++书写HelloWorld\01 C++书写HelloWorld.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\01 C++书写HelloWorld.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "01 C++书写Hello World.cpp"
+         01 C++书写Hello World.cpp
+     1>d:\xuyang\01 c++书写helloworld\01 c++书写helloworld\01 c++书写hello world.cpp(6): error C2001: 常量中有换行符
+     1>d:\xuyang\01 c++书写helloworld\01 c++书写helloworld\01 c++书写hello world.cpp(7): error C2146: 语法错误: 缺少“)”(在标识符“system”的前面)
+     1>已完成生成项目“D:\xuyang\01 C++书写HelloWorld\01 C++书写HelloWorld\01 C++书写HelloWorld.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.29
